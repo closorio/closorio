@@ -9,7 +9,7 @@
 Systems Technologist from the Universidad del Valle, with experience as a Frontend React-Typescript developer from Colombia. I consider myself a junior developer with good design and debugging skills.
 <br/>
 
-  <img align="right" margin="100px" alt="GIF" width="250" height="250" src="https://i.gifer.com/9T2X.gif"/>
+  <img align="right" margin="100px" alt="GIF" width="220" height="220" src="https://i.gifer.com/9T2X.gif"/>
   
 ### ✨ Quick Facts
 
