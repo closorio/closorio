@@ -9,7 +9,6 @@
 Systems Technologist from the Universidad del Valle, with experience as a Frontend React-Typescript developer from Colombia. I consider myself a junior developer with good design and debugging skills.
 <br/>
 
-  <img align="right" margin="100px" alt="GIF" width="220" height="220" src="https://i.gifer.com/9T2X.gif"/>
   
 ### ✨ Quick Facts
 
@@ -17,8 +16,6 @@ Systems Technologist from the Universidad del Valle, with experience as a Fronte
 - 💬 Ask me about anything related to JS, React, Google AppScripts.
 - ⚡️ Fun fact: I like to automate everything, if I could do it by making my bed, I would 🙃
 - 🎿 Hobbies other than coding: reading blogs, consulting audiovisual material about history and philosophy... and the Fromsoftware games :)
-<br>
-<br>
 
 ---
 
