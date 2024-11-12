@@ -1,4 +1,4 @@
-# Leonardo Osorio
+# Hi! I'm Leonardo Osorio
 [![Linkedin Badge](https://img.shields.io/badge/-closorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/closorio/)](https://www.linkedin.com/in/closorio/) 
 [![Gmail Badge](https://img.shields.io/badge/-cloglich@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cloglich@gmail.com)](mailto:cloglich@gmail.com)
 [<img src="https://img.shields.io/github/followers/closorio?label=follow&style=social" height="22" title="Follow me" />](https://github.com/closorio)
